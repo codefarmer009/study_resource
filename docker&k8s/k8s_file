@@ -122,3 +122,14 @@ https://icloudnative.io/posts/ipvs-how-kubernetes-services-direct-traffic-to-pod
 https://xigang.github.io/2019/07/21/kubernetes-service/
 // k8s集群网络(7)-service之ipvs cluster ip实现原理
 https://cloud.tencent.com/developer/article/1607796
+
+21: coredns
+
+https://thiscute.world/posts/about-dns-protocol/
+// coredns解析流程和corefile配置
+https://www.cnblogs.com/punchlinux/p/16531386.html
+// coredns代码分析
+https://atbug.com/analysis-of-the-working-mechanism-of-coredns/
+//Kubernetes 服务发现之 coreDNS
+https://blog.hdls.me/15628434928542.html
+
