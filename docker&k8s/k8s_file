@@ -136,3 +136,6 @@ https://blog.hdls.me/15628434928542.html
 22: 手写一个Kubernetes CNI网络插件
 https://qingwave.github.io/how-to-write-k8s-cni/
 
+23: k8s admission webhook
+https://www.qikqiak.com/post/k8s-admission-webhook/
+
