@@ -86,6 +86,10 @@ https://www.hitzhangjie.pro/blog/2021-04-14-go%E7%A8%8B%E5%BA%8F%E5%86%85%E5%AD%
 
 14: goroutine交替打印abc
 https://blog.csdn.net/xingyu97/article/details/121630244
+// n个groutine交替打印
+https://zhuanlan.zhihu.com/p/653382082
+
+https://www.nowcoder.com/discuss/712384113688199168
 
 15: go struct是否能比价
 https://juejin.cn/post/6881912621616857102
