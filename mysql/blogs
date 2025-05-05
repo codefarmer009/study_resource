@@ -32,3 +32,6 @@ https://github.com/Relph1119/mysql-learning-notes/tree/master/docs/mysql
 
 8: mysql加锁
 https://zhuanlan.zhihu.com/p/460004150
+
+9: mysql为什么使用b+树而不使用跳表
+https://www.cnblogs.com/crazymakercircle/p/18076952
