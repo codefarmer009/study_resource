@@ -13,8 +13,10 @@ https://cloud.tencent.com/developer/article/1543335
 https://xiaolincoding.com/mysql/index/why_index_chose_bpuls_tree.html#%E6%80%8E%E6%A0%B7%E7%9A%84%E7%B4%A2%E5%BC%95%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%98%AF%E5%A5%BD%E7%9A%84
 https://blog.csdn.net/xlgen157387/article/details/79450295
 https://www.cnblogs.com/liaowenhui/p/14806749.html
-从数据页角度看b+树
+// 从数据页角度看b+树
 https://xiaolincoding.com/mysql/index/page.html#innodb-%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E7%9A%84
+// 为什么生产环境中b+树高度总是3和4
+https://zhuanlan.zhihu.com/p/86137284
 
 4:LSM树
 https://zhuanlan.zhihu.com/p/181498475
