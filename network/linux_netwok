@@ -12,4 +12,9 @@ epoll惊群
 https://www.cnblogs.com/Anker/p/7071849.html
 
 3: select poll epoll
+
+https://zhuanlan.zhihu.com/p/367591714
+https://www.cnblogs.com/cscshi/p/16525332.html
+https://cloud.tencent.com/developer/article/2188691
+https://www.xiaolincoding.com/os/8_network_system/selete_poll_epoll.html#%E6%9C%80%E5%9F%BA%E6%9C%AC%E7%9A%84-socket-%E6%A8%A1%E5%9E%8B
 https://segmentfault.com/a/1190000003063859
