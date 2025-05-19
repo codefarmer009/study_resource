@@ -104,6 +104,7 @@
 1，索引的底层实现
 
 2，为什么使用B+树，而不使用跳表？
+https://blog.csdn.net/crazymakercircle/article/details/136760409
 
 3，MySQL分表怎么做？
 
