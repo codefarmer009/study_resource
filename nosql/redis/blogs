@@ -53,6 +53,10 @@ https://xie.infoq.cn/article/f58c1536329879b7f02d23f47
 // 大key如何删除
 https://developer.aliyun.com/article/1353189
 https://www.easemob.com/news/9908
+// 大key对持久化的影响
+https://www.xiaolincoding.com/redis/storage/bigkey_aof_rdb.html
+
+https://juejin.cn/post/7167015025154981895
 
 13: redis跳跃表
 https://javaguide.cn/database/redis/redis-skiplist.html
