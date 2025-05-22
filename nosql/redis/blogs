@@ -49,7 +49,10 @@ https://mp.weixin.qq.com/s/oeOfsgF-9IOoT5eQt5ieyw
 https://blog.csdn.net/LS7011846/article/details/122801072
 
 12：redis big key处理
-https://www.liangseo.com/article/15
+https://xie.infoq.cn/article/f58c1536329879b7f02d23f47
+// 大key如何删除
+https://developer.aliyun.com/article/1353189
+https://www.easemob.com/news/9908
 
 13: redis跳跃表
 https://javaguide.cn/database/redis/redis-skiplist.html
