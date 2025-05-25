@@ -12,7 +12,7 @@ epoll惊群
 https://www.cnblogs.com/Anker/p/7071849.html
 
 3: select poll epoll
-
+https://www.cnblogs.com/88223100/p/Deeply-learn-the-implementation-principle-of-IO-multiplexing-select_poll_epoll.html
 https://zhuanlan.zhihu.com/p/367591714
 https://www.cnblogs.com/cscshi/p/16525332.html
 https://cloud.tencent.com/developer/article/2188691
