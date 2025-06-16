@@ -48,3 +48,6 @@ https://mp.weixin.qq.com/s?__biz=MzkxNzIyMTM1NQ==&mid=2247497497&idx=1&sn=1be344
 
 12: 分库分表
 https://www.cnblogs.com/chengxy-nds/p/16924305.html
+
+13: mysql为什么不用binlog崩溃恢复
+https://blog.csdn.net/Alen_xiaoxin/article/details/122289998
