@@ -1,0 +1,5 @@
+1: 讲讲 deploymeney/statefulset 的 pod 所在宿主机故障之后，pod 的状态和 workload 的行为区别。或者再问个简单点，deploy 滚动时，maxsurege 和 unavailiable 都设置为 0，能否滚动，为什么？
+再问个深入点的：rs 如何并发创建删除 pod 的，如何保证不会误删多创，过程中如果有 pod 删不掉或者创建不出来会不会阻塞。
+
+
+2: 资源ownerreference注解有什么用作，意味什么
