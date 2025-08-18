@@ -37,6 +37,8 @@ https://eddycjy.com/tags/grpc/
 //tls双向认证
 https://cloud.tencent.com/developer/article/1423345
 https://blog.csdn.net/qq_56639722/article/details/136486997
+// tls证书链
+https://blog.csdn.net/liuxiao723846/article/details/127739868
 
 10：openssl生成公私钥
 //OpenSSL生成PKCS#8私钥和公钥
